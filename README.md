@@ -1,7 +1,5 @@
 # S.P.A.R.C.: Syntax & Programmatic Assistance Resource Component.
 
-Your AI Coding Assistant
-
 ## Overview
 
 SPARC (Syntax & Programmatic Assistance Resource Component) is a command-line chat application that acts as an AI coding assistant. It leverages the power of Google's Gemini Pro model to understand and respond to your coding-related queries. SPARC can interact with your file system, read and write files, and even execute code to provide a seamless and efficient development experience.
